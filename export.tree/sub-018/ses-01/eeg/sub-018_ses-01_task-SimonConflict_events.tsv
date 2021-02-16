@@ -1,0 +1,2180 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+0.0000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+184.3560000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+185.0120000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+185.1900000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+187.3940000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+188.2220000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+188.3880000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+190.5720000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+191.1980000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+191.3540000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+193.5380000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+194.3660000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+194.5200000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+196.7020000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+197.5820000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+197.7360000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+199.9180000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+200.5440000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+200.7020000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+202.8840000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+204.0340000000	n/a	n/a	Trn No Response	n/a	n/a	S105
+204.2340000000	n/a	n/a	STATUS	n/a	n/a	S  7
+206.4160000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+207.0880000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+207.2500000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+209.4320000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+210.0880000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+210.2480000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+212.4320000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+212.9120000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+213.0640000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+215.2480000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+215.8320000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+215.9980000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+218.1800000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+218.5360000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+218.6980000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+220.8800000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+221.3040000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+221.4640000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+223.6460000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+224.0320000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+224.1960000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+226.3780000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+227.0800000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+227.2440000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+229.4420000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+230.0000000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+230.1600000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+232.3420000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+232.9520000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+233.1080000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+235.2900000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+235.9760000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+236.1400000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+238.3240000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+238.9760000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+239.1400000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+241.3220000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+241.8640000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+242.0220000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+244.2040000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+244.7680000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+244.9220000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+247.1040000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+247.6480000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+247.8040000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+249.9860000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+250.5360000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+250.7020000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+252.8860000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+253.5600000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+253.7180000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+255.9020000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+256.4160000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+256.5840000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+258.7660000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+259.4480000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+259.6160000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+261.8000000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+262.3840000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+262.5500000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+264.7320000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+265.1440000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+265.2980000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+267.4800000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+267.9440000000	n/a	n/a	Trn Resp: right,incorrect	n/a	n/a	S104
+268.1300000000	n/a	n/a	STATUS	n/a	n/a	S  6
+270.3140000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+270.8880000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+271.0460000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+273.2300000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+273.8960000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+274.0620000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+276.2440000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+277.0080000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+277.1780000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+279.3600000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+279.9440000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+280.1100000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+282.2920000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+282.7840000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+282.9420000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+285.1260000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+285.9920000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+286.1580000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+288.3420000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+289.1520000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+289.3080000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+291.4900000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+291.9920000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+292.1560000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+294.3400000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+294.8240000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+294.9880000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+297.1720000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+297.6320000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+297.7880000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+299.9700000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+300.5200000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+300.6880000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+302.8860000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+303.4960000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+303.6520000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+305.8360000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+306.5520000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+306.7180000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+308.9020000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+309.4800000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+309.6340000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+311.8180000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+312.4000000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+312.5680000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+314.7500000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+315.3360000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+315.5000000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+317.6820000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+318.4400000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+318.6000000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+320.7820000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+321.3600000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+321.5320000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+323.7140000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+324.3860000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+324.5480000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+326.7460000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+327.2980000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+327.4620000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+329.6440000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+330.2580000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+330.4120000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+332.5940000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+333.0820000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+333.2440000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+335.4260000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+335.9860000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+336.1420000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+338.3260000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+339.1540000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+339.3080000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+341.4920000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+341.9700000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+342.1240000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+344.3060000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+345.2740000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+345.4400000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+347.6220000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+348.3780000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+348.5380000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+350.7220000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+351.2980000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+351.4540000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+353.6380000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+354.4340000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+354.5860000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+356.7700000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+357.4660000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+357.6200000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+359.8020000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+360.5380000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+360.7020000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+362.8840000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+363.7940000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+363.9500000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+366.1340000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+366.6180000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+366.7840000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+368.9660000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+369.7540000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+369.9160000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+372.0980000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+372.6100000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+372.7640000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+374.9480000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+375.5620000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+375.7300000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+377.9120000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+378.7860000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+378.9460000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+381.1280000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+381.8820000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+382.0460000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+384.2280000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+384.7220000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+384.8780000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+387.0600000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+387.9300000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+388.0940000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+390.2760000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+391.4260000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+391.5920000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+393.7740000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+394.4420000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+394.6080000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+396.7900000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+397.5620000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+397.7240000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+399.9060000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+400.5380000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+400.7060000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+402.8880000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+403.6020000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+403.7720000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+405.9540000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+406.4660000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+406.6200000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+408.8040000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+409.4740000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+409.6360000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+411.8200000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+412.6260000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+412.7860000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+414.9700000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+415.6660000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+415.8400000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+418.0340000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+418.5860000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+418.7520000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+420.9340000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+421.7460000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+421.9180000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+424.1000000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+425.0420000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+425.2000000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+427.3980000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+428.4580000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+428.6140000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+449.9860000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+451.2700000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+452.4580000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+453.7080000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+454.8920000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+455.8360000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+457.0080000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+457.9960000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+459.1740000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+460.7800000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+461.9560000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+463.1560000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+464.3380000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+465.2600000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+466.4380000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+467.4120000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+468.5860000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+469.5000000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+470.6700000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+471.8760000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+473.0520000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+474.2440000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+475.4180000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+476.5800000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+477.7520000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+479.2200000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+480.4000000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+481.3960000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+482.5660000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+483.8040000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+484.9820000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+485.9560000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+487.1320000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+488.4360000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+489.6140000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+490.9320000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+492.1120000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+493.2280000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+494.3960000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+495.3640000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+496.5440000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+497.5640000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+498.7440000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+500.6840000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+501.8600000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+503.0440000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+504.2260000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+505.4680000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+506.6420000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+507.9800000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+509.1580000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+510.1560000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+511.3240000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+512.5160000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+513.6900000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+514.7880000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+515.9560000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+516.9080000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+518.0880000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+519.5160000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+520.6880000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+522.0360000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+523.2040000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+524.7160000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+525.8860000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+527.1160000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+528.2840000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+529.3240000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+530.5000000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+531.4920000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+532.6660000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+533.5400000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+534.7160000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+536.1880000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+537.3660000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+538.4280000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+539.5980000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+541.9960000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+543.1640000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+544.1320000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+545.3140000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+546.6360000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+547.8140000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+549.2280000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+550.4120000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+552.2040000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+553.3780000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+555.0920000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+556.2620000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+557.1480000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+558.3260000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+559.7160000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+560.8920000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+562.0520000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+563.2240000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+564.0120000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+571.3360000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+572.0920000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+572.2680000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+574.4680000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+575.3180000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+575.4840000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+577.6680000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+578.8180000000	n/a	n/a	Trn No Response	n/a	n/a	S105
+579.0160000000	n/a	n/a	STATUS	n/a	n/a	S  7
+581.2060000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+582.2540000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+582.4160000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+584.5980000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+585.2060000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+585.3640000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+587.5480000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+588.3260000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+588.4800000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+590.6640000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+591.4940000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+591.6620000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+593.8460000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+594.7100000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+594.8780000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+597.0620000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+597.9340000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+598.0940000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+600.2760000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+601.2140000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+601.3760000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+603.5600000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+604.3660000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+604.5260000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+606.7080000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+607.6380000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+607.7920000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+609.9740000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+610.5420000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+610.7060000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+612.8900000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+613.4380000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+613.6060000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+615.7880000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+616.3500000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+616.5040000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+618.6880000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+619.3100000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+619.4700000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+621.6540000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+622.3900000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+622.5540000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+624.7360000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+625.1660000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+625.3180000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+627.5020000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+628.1020000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+628.2680000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+630.4500000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+630.8940000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+631.0500000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+633.2340000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+634.1340000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+634.3000000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+636.4820000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+637.2220000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+637.3820000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+639.5640000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+640.3020000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+640.4640000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+642.6460000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+643.5020000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+643.6640000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+645.8460000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+646.7100000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+646.8780000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+649.0620000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+650.2120000000	n/a	n/a	Trn No Response	n/a	n/a	S105
+650.4120000000	n/a	n/a	STATUS	n/a	n/a	S  7
+652.5940000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+653.3580000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+653.5260000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+655.7100000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+656.2780000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+656.4420000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+658.6260000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+659.5340000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+659.6920000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+661.8760000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+662.3980000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+662.5580000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+664.7420000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+665.8780000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+666.0400000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+668.2240000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+668.7100000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+668.8740000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+671.0560000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+671.8380000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+672.0060000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+674.2040000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+675.1660000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+675.3200000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+677.5020000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+678.3980000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+678.5520000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+680.7340000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+681.5580000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+681.7180000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+683.9000000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+684.8380000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+685.0340000000	n/a	n/a	STATUS	n/a	n/a	S  6
+687.2160000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+688.2940000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+688.4500000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+690.6320000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+691.3260000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+691.4820000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+693.6640000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+694.5200000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+694.6800000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+696.8640000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+698.0140000000	n/a	n/a	Trn No Response	n/a	n/a	S105
+698.1960000000	n/a	n/a	STATUS	n/a	n/a	S  7
+700.3780000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+701.0480000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+701.2120000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+703.3940000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+704.4560000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+704.6100000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+706.7940000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+707.9440000000	n/a	n/a	Trn No Response	n/a	n/a	S105
+708.1260000000	n/a	n/a	STATUS	n/a	n/a	S  7
+710.3080000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+710.9440000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+711.1080000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+713.2920000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+713.7280000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+713.8920000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+716.0740000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+716.9520000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+717.1060000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+719.2900000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+720.3120000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+720.4720000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+722.6560000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+723.1520000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+723.3040000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+725.4880000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+725.9600000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+726.1200000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+728.3040000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+729.3600000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+729.5200000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+731.7020000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+732.1680000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+732.3360000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+734.5180000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+735.3600000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+735.5180000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+737.7000000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+738.4800000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+738.6340000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+740.8160000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+741.3440000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+741.5000000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+743.6820000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+744.5520000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+744.7140000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+746.8980000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+747.9920000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+748.1480000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+750.3300000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+751.2480000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+751.4120000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+753.5960000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+754.2480000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+754.4120000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+756.5940000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+757.6320000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+757.8100000000	n/a	n/a	STATUS	n/a	n/a	S  6
+759.9940000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+760.5200000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+760.6760000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+762.8600000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+763.7280000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+763.8940000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+766.0760000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+766.8400000000	n/a	n/a	Trn Resp: right,incorrect	n/a	n/a	S104
+767.0260000000	n/a	n/a	STATUS	n/a	n/a	S  6
+769.2260000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+769.8320000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+769.9920000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+772.1740000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+773.1120000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+773.2740000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+775.4740000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+776.0240000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+776.1880000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+778.3720000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+779.0560000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+779.2200000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+781.4040000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+782.2640000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+782.4200000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+784.6020000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+785.2800000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+785.4360000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+787.6180000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+788.4960000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+788.6520000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+790.8340000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+791.9440000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+792.1000000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+794.2820000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+794.9200000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+795.0820000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+797.2660000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+797.8400000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+797.9980000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+800.1800000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+801.2880000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+801.4480000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+803.6300000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+804.4880000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+804.6460000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+806.8300000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+807.8400000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+807.9960000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+810.1780000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+810.9760000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+811.1440000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+813.3260000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+814.4780000000	n/a	n/a	Trn No Response	n/a	n/a	S105
+814.6600000000	n/a	n/a	STATUS	n/a	n/a	S  7
+816.8440000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+817.7120000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+817.8760000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+820.0580000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+820.4340000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+820.5920000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+822.7740000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+823.6100000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+823.7740000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+825.9560000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+826.5140000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+826.6720000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+828.8560000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+829.5460000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+829.7040000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+831.8880000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+832.5380000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+832.7040000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+834.8860000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+835.8180000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+835.9860000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+838.1680000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+838.7060000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+838.8680000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+841.0520000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+841.8660000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+842.0340000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+844.2180000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+845.1780000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+845.3340000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+857.4320000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+858.5980000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+859.7820000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+860.7700000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+861.9480000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+863.3300000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+864.4960000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+865.3300000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+866.5120000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+867.3540000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+868.5280000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+869.6420000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+870.8100000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+871.9380000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+873.1100000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+874.0420000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+875.2100000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+876.0580000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+877.2280000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+877.9620000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+879.1440000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+879.8420000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+881.0260000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+881.8980000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+883.0760000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+884.0180000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+885.1920000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+886.0420000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+887.2220000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+888.7140000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+889.8880000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+890.8100000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+891.9880000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+892.8420000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+894.0200000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+894.6660000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+895.8360000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+896.6020000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+897.7700000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+898.4580000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+899.6360000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+900.6820000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+901.8580000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+902.9460000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+904.1180000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+905.0340000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+906.2160000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+907.2980000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+908.4660000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+909.9300000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+911.0980000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+912.7780000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+913.9480000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+915.2020000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+916.3800000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+917.6980000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+918.8800000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+920.0260000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+921.1960000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+922.3300000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+923.5120000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+924.6180000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+925.7940000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+927.2660000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+928.4420000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+929.3060000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+930.4760000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+931.4740000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+932.6420000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+933.5780000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+934.7580000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+936.0420000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+937.2240000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+938.7940000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+939.9720000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+941.0820000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+942.2560000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+943.0500000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+944.2220000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+945.5320000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+946.7040000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+947.7640000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+948.9360000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+950.6520000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+951.8180000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+953.2120000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+954.3840000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+955.1320000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+956.3000000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+957.7800000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+958.9500000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+960.3320000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+961.5000000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+962.8200000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+963.9980000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+965.2040000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+973.6600000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+974.5460000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+974.7420000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+976.9420000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+977.7160000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+977.9080000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+980.0920000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+980.6280000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+980.8080000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+983.0060000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+983.5320000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+983.7240000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+985.9060000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+986.6920000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+986.8560000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+989.0380000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+989.5880000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+989.7720000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+991.9540000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+992.6200000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+992.7880000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+995.0160000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+995.7800000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+995.9380000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+998.1200000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+998.7160000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+998.8860000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1001.0700000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+1001.6600000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1001.8180000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1004.0020000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+1004.4200000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1004.5840000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1006.7680000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+1007.3080000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1007.4680000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1009.6660000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+1010.2280000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1010.3820000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1012.5640000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+1013.1080000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1013.2640000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1015.4460000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+1016.0040000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1016.1640000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1018.3460000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+1019.1480000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1019.3280000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1021.5120000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+1022.4440000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1022.6120000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1024.7940000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+1025.2680000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1025.4280000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1027.6100000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+1028.4840000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1028.6420000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1030.8260000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+1031.4280000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1031.5920000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1033.7740000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+1034.5080000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1034.6740000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1036.8560000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+1037.2680000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1037.4240000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1039.6060000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+1040.5080000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1040.6720000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1042.8540000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+1043.7240000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1043.8880000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1046.0700000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+1046.7800000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1046.9360000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1049.1200000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+1050.1160000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1050.2860000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1052.4680000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+1053.3960000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1053.5520000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1055.7340000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+1056.7720000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1056.9340000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1059.2000000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+1060.3500000000	n/a	n/a	Trn No Response	n/a	n/a	S105
+1060.5500000000	n/a	n/a	STATUS	n/a	n/a	S  7
+1062.7360000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+1063.7480000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1063.9140000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1066.0980000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+1066.6360000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1066.7980000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1068.9800000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+1069.8360000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1069.9960000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1072.1800000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+1072.5820000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1072.7460000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1074.9280000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+1075.6940000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1075.8620000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1078.0440000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+1078.6060000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1078.7600000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1080.9440000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+1081.9180000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1082.0760000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1084.2580000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+1085.1420000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1085.3080000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1087.4900000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+1088.0540000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1088.2080000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1090.3900000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+1091.1980000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1091.3560000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1093.5400000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+1094.2060000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1094.3720000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1096.5740000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+1097.1420000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1097.3060000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1099.4880000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+1099.8780000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1100.0380000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1102.2200000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+1102.9100000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1103.0700000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1105.2540000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+1106.1260000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1106.2860000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1108.4680000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+1109.2060000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1109.3680000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1111.5660000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+1112.3660000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1112.5340000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1114.7160000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+1115.3100000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1115.4660000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1117.6480000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+1118.2540000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1118.4140000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1120.5980000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+1121.1340000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1121.2960000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1123.4800000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+1124.3580000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1124.5120000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1126.6960000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+1127.5740000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1127.7280000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1129.9100000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+1130.6940000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1130.8600000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1133.0440000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+1133.6380000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1133.7940000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1135.9760000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+1136.7340000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1136.8920000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1139.0740000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+1139.8380000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1139.9920000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1142.1740000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+1142.6940000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1142.8560000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1145.0400000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+1146.1900000000	n/a	n/a	Trn No Response	n/a	n/a	S105
+1146.3720000000	n/a	n/a	STATUS	n/a	n/a	S  7
+1148.5560000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+1148.9820000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1149.1380000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1151.3200000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+1152.4700000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1152.6380000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1154.8200000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+1155.4140000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1155.5700000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1157.7680000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+1158.6460000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1158.8020000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1160.9840000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+1161.9100000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1162.0680000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1164.2500000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+1164.9260000000	n/a	n/a	Trn Resp: right,incorrect	n/a	n/a	S104
+1165.1160000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1167.3000000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+1167.9180000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1168.0820000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1170.2660000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+1170.8860000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1171.0480000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1173.2300000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+1173.9340000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1174.0980000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1176.2800000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+1176.7980000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1176.9620000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1179.1460000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+1180.2960000000	n/a	n/a	Trn No Response	n/a	n/a	S105
+1180.4780000000	n/a	n/a	STATUS	n/a	n/a	S  7
+1182.6620000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+1183.1900000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1183.3440000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1185.5280000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+1186.0940000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1186.2600000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1188.4420000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+1189.0140000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1189.1760000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1191.3580000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+1192.4060000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1192.5740000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1194.7580000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+1195.3900000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1195.5580000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1197.7400000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+1198.7120000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+1198.9080000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1201.0900000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+1201.6800000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1201.8400000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1204.0220000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+1204.8240000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1204.9880000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1207.1720000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+1208.0080000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1208.1700000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1210.3540000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+1211.1920000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1211.3540000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1213.5520000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+1214.1280000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1214.2840000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1216.4680000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+1217.0320000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1217.2000000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1219.3820000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+1220.1520000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1220.3160000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1222.4980000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+1223.1920000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1223.3480000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1225.5320000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+1226.1760000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1226.3300000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1228.5140000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+1229.3920000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1229.5460000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1231.7300000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+1232.5680000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1232.7280000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1240.8300000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+1241.8520000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1243.0820000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+1244.1680000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1245.3440000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+1246.1840000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1247.3600000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+1248.2160000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1249.3920000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+1250.5600000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1251.7420000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+1252.9120000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1254.0920000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+1255.1680000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+1256.3400000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+1257.2560000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1258.4240000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+1259.4960000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1260.6720000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+1261.3440000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1262.5220000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+1263.3120000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1264.4880000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+1265.4720000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1266.6540000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+1267.3200000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1268.4860000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+1269.0880000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1270.2700000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+1270.9520000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1272.1180000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+1273.2880000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1274.4680000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+1275.6880000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+1276.8760000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+1277.5120000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1278.6840000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+1279.3200000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+1280.5000000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+1281.4720000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1282.6480000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+1283.4720000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1284.6480000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+1285.3520000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1286.5300000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+1287.7120000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1288.8800000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+1289.7600000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+1290.9300000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+1291.8160000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+1292.9960000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+1293.9920000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1295.1620000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+1296.0080000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+1297.1780000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+1297.9360000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1299.1100000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+1300.3760000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1301.5600000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+1302.3760000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1303.5580000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+1304.1760000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1305.3580000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+1306.0000000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+1307.1760000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+1308.7200000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+1309.8920000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+1311.0000000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1312.1740000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+1313.0480000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1314.2240000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+1314.9920000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1316.1740000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+1317.1040000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1318.2880000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+1319.1120000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1320.2860000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+1320.9620000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1322.1360000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+1322.8820000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1324.0520000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+1324.7540000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1325.9360000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+1326.8340000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1328.0020000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+1328.8500000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1330.0180000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+1331.2660000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1332.4340000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+1333.1860000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1334.3660000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+1335.1140000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1336.2820000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+1337.2900000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+1338.4640000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+1339.0980000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1348.0600000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+1348.6560000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1348.8600000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1351.0760000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+1351.9140000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1352.1080000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1354.3080000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+1355.2100000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1355.3900000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1357.5900000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+1358.3860000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1358.5720000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1360.7560000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+1361.7460000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1361.9380000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1364.1220000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+1365.2020000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1365.3700000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1367.5700000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+1368.2660000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1368.4540000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1370.6360000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+1371.5140000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1371.6680000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1373.8520000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+1375.0020000000	n/a	n/a	Trn No Response	n/a	n/a	S105
+1375.2000000000	n/a	n/a	STATUS	n/a	n/a	S  7
+1377.3880000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+1377.8820000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1378.0500000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1380.2320000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+1381.0020000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1381.1660000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1383.3640000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+1384.2020000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1384.3640000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1386.5480000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+1387.5140000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+1387.6960000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1389.8800000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+1390.5060000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1390.6620000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1392.8620000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+1393.7460000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+1393.9280000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1396.1120000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+1397.0820000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1397.2440000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1399.4260000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+1400.0900000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1400.2440000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1402.4260000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+1403.5760000000	n/a	n/a	Trn No Response	n/a	n/a	S105
+1403.7580000000	n/a	n/a	STATUS	n/a	n/a	S  7
+1405.9420000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+1406.3940000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1406.5580000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1408.7400000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+1409.6180000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1409.8060000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1411.9900000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+1412.5860000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1412.7560000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1414.9380000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+1415.4980000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1415.6540000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1417.8580000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+1418.6580000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1418.8220000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1421.0040000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+1421.9620000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+1422.1540000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1424.3360000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+1424.9220000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1425.0860000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1427.2700000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+1427.9540000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1428.1180000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1430.3160000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+1431.3860000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1431.5500000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1433.7320000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+1434.5780000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1434.7320000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1436.9140000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+1437.4340000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1437.5980000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1439.7800000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+1440.5160000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+1440.6980000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1442.8800000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+1443.4600000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1443.6120000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1445.7960000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+1446.5780000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1446.7460000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1448.9280000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+1449.8520000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+1450.0440000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1452.2260000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+1452.8120000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1452.9760000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1455.1600000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+1456.3100000000	n/a	n/a	Trn No Response	n/a	n/a	S105
+1456.4920000000	n/a	n/a	STATUS	n/a	n/a	S  7
+1458.6740000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+1459.1400000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1459.3080000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1461.4900000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+1462.3880000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1462.5400000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1464.7220000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+1465.5400000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1465.7060000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1467.8880000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+1468.8040000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1468.9720000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1471.1540000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+1471.7720000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1471.9380000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1474.1200000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+1474.9720000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1475.1360000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1477.3180000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+1478.1000000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1478.2680000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1480.4520000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+1481.4600000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1481.6180000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1483.8000000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+1484.6920000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1484.8500000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1487.0320000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+1487.5960000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+1487.7820000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1489.9660000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+1490.8840000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+1491.0640000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1493.2480000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+1493.6120000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1493.7800000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1495.9640000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+1496.4840000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1496.6460000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1498.8280000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+1499.5480000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1499.7120000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1501.8940000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+1502.5960000000	n/a	n/a	Trn Resp: right,incorrect	n/a	n/a	S104
+1502.7780000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1504.9600000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+1506.0600000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1506.2260000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1508.4100000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+1509.1560000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1509.3080000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1511.4920000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+1512.2200000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1512.3740000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1514.5580000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+1515.1160000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1515.2740000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1517.4560000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+1518.4200000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1518.5900000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1520.7720000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+1521.4040000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1521.5720000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1523.7560000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+1524.4360000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1524.6060000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1526.8040000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+1527.4840000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1527.6540000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1529.8380000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+1530.6440000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1530.8040000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1532.9860000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+1533.6280000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1533.7860000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1535.9680000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+1536.4920000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1536.6520000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1538.8500000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+1539.5000000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+1539.6820000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1541.8660000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+1542.1400000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1542.2980000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1544.4820000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+1545.2360000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1545.3980000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1547.5800000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+1548.4120000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1548.5800000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1550.7620000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+1551.9140000000	n/a	n/a	Trn No Response	n/a	n/a	S105
+1552.0960000000	n/a	n/a	STATUS	n/a	n/a	S  7
+1554.2780000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+1554.8120000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1554.9780000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1557.1600000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+1558.0280000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1558.1940000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1560.3760000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+1560.8200000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1560.9760000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1563.1580000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+1563.6440000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1563.8080000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1565.9920000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+1566.7720000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1566.9400000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1569.1240000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+1569.6940000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1569.8560000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1572.0400000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+1572.6860000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1572.8400000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1575.0220000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+1575.8380000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+1576.0220000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1578.2040000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+1578.8780000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1579.0380000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1581.2200000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+1581.8860000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1582.0520000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1584.2360000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+1585.0620000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1585.2180000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1587.4020000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+1588.3260000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1588.4840000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1590.6660000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+1591.6540000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1591.8160000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1594.0000000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+1594.7260000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1594.8900000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1597.0820000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+1597.5980000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1597.7640000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1599.9480000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+1600.6780000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1600.8300000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1603.0120000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+1603.4700000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1603.6300000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1605.8120000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+1606.4700000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1606.6280000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1608.8120000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+1609.6700000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1609.8280000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1612.0100000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+1612.8300000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1612.9940000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1615.1760000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+1616.2060000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1616.3580000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1618.5420000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+1619.3340000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1619.4920000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1621.6740000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+1622.3820000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1622.5400000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1624.7240000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+1625.5660000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1625.7240000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1627.9060000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+1628.8460000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1629.0060000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1631.1880000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+1632.1100000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1632.2720000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1634.4540000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+1635.2620000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1635.4200000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1637.6040000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+1638.0460000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1638.2040000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1653.1780000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+1654.2580000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1655.4320000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+1656.0460000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1657.2420000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+1658.0060000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1659.1800000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+1660.3180000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+1661.5240000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+1662.4300000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1663.6120000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+1664.2860000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1665.4620000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+1666.8460000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1668.0280000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+1669.3580000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1670.5280000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+1671.3740000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+1672.5440000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+1673.6140000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+1674.7920000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+1675.8220000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1676.9920000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+1678.1260000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1679.3080000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+1680.4060000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+1681.5740000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+1682.7180000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+1683.8900000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+1685.3900000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1686.5720000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+1687.5580000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1688.7380000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+1689.8220000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1691.0040000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+1691.6480000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1692.8200000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+1693.6700000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1694.8540000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+1696.0720000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1697.2520000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+1698.1440000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+1699.3180000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+1700.0960000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1701.2680000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+1702.0320000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1703.2000000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+1704.3520000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+1705.5340000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+1706.7120000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1707.8820000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+1708.9040000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1710.0820000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+1711.3520000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1712.5300000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+1714.1680000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1715.3460000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+1716.4160000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1717.5960000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+1718.9520000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1720.1280000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+1721.3120000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1722.4780000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+1724.0320000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1725.2100000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+1726.4480000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1727.6260000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+1728.6880000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+1729.8580000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+1730.7440000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1731.9240000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+1733.8160000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1734.9900000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+1736.1440000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1737.3240000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+1738.1200000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1739.2900000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+1740.7200000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1741.8980000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+1742.5840000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1743.7540000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+1744.5440000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1745.7220000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+1746.5680000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+1747.7380000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+1750.3680000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1751.5360000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+1753.1600000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+1754.3360000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+1755.0640000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1756.2360000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+1757.1760000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+1758.3500000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+1761.5140000000	n/a	n/a	Test No Response	n/a	n/a	S  5
+1762.6980000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+1764.4800000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+1777.2080000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+1777.7660000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1777.9740000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1780.1900000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+1780.7760000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1780.9740000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1783.1740000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+1784.0480000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1784.2400000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1786.4220000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+1787.0160000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1787.1720000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1789.3540000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+1790.2960000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1790.4880000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1792.6860000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+1793.2800000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1793.4360000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1795.6360000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+1796.3200000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1796.5020000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1798.7020000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+1799.4080000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1799.6020000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1801.7840000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+1802.4960000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1802.6500000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1804.8340000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+1805.7040000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1805.9000000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1808.0820000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+1809.0480000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1809.2160000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1811.3980000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+1812.3440000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1812.5140000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1814.6960000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+1815.6400000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1815.7960000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1817.9780000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+1818.9220000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1819.0780000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1821.2620000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+1822.2340000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1822.3940000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1824.5760000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+1825.5060000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1825.6600000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1827.8420000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+1828.6660000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1828.8260000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1831.0080000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+1831.7540000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1831.9080000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1834.1080000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+1835.0820000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1835.2400000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1837.4220000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+1838.4820000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1838.6400000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1840.8220000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+1841.7860000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1841.9380000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1844.1200000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+1844.6900000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1844.8540000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1847.0360000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+1847.8500000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1848.0020000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1850.1860000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+1851.1220000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1851.2860000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1853.4680000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+1854.2180000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1854.3860000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1856.5840000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+1857.3300000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1857.4840000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1859.6660000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+1860.2180000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1860.3820000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1862.5640000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+1863.4820000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1863.6480000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1865.8320000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+1866.4420000000	n/a	n/a	Trn Resp: right,incorrect	n/a	n/a	S104
+1866.6320000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1868.8320000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+1869.2580000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1869.4140000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1871.5960000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+1872.1140000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1872.2800000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1874.4960000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+1875.3300000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+1875.5120000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1877.7100000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+1878.1940000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1878.3600000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1880.5420000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+1881.3860000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1881.5420000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1883.7260000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+1884.4260000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1884.5920000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1886.7740000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+1887.4420000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1887.6080000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1889.7900000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+1890.5060000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1890.6720000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1892.8560000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+1893.3300000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1893.4880000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1895.6720000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+1896.4660000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1896.6220000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1898.8040000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+1899.2900000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1899.4540000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1901.6360000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+1902.4020000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1902.5700000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1904.7520000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+1905.2340000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1905.4020000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1907.5840000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+1908.5300000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1908.6840000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1910.8660000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+1912.0180000000	n/a	n/a	Trn No Response	n/a	n/a	S105
+1912.2160000000	n/a	n/a	STATUS	n/a	n/a	S  7
+1914.4040000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+1914.8580000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1915.0160000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1917.1980000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+1917.7540000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1917.9140000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1920.0980000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+1920.7060000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1920.8640000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1923.0460000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+1923.9700000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1924.1300000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1926.3120000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+1927.0740000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1927.2280000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1929.4100000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+1929.8420000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1930.0100000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1932.1940000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+1932.6820000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1932.8440000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1935.0260000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+1935.9860000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1936.1420000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1938.3260000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+1938.8500000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1939.0080000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1941.1900000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+1942.1940000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1942.3560000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1944.5400000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+1945.3880000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1945.5560000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1947.7380000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+1948.8880000000	n/a	n/a	Trn No Response	n/a	n/a	S105
+1949.0720000000	n/a	n/a	STATUS	n/a	n/a	S  7
+1951.2540000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+1951.7320000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1951.8880000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1954.0700000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+1954.6040000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+1954.7860000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1956.9680000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+1957.3240000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1957.4860000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1959.6680000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+1960.1320000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1960.2840000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1962.4680000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+1962.8840000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1963.0500000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1965.2320000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+1965.7240000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1965.8820000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1968.0660000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+1968.8680000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1969.0320000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1971.2160000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+1971.8280000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1971.9980000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1974.1820000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+1975.1080000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1975.2640000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1977.4460000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+1978.3000000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1978.4640000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1980.6460000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+1981.4120000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1981.5780000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1983.7780000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+1984.6040000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1984.7600000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1986.9420000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+1987.9080000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+1988.0760000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1990.2580000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+1990.9640000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+1991.1580000000	n/a	n/a	STATUS	n/a	n/a	S  6
+1993.3400000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+1993.9000000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1994.0580000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+1996.2400000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+1996.9400000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+1997.1060000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+1999.2880000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+2000.3160000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2000.4720000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2002.6540000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+2003.4520000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2003.6200000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2005.8040000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+2006.5720000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2006.7360000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2008.9200000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+2009.4920000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2009.6520000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2011.8340000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+2012.4360000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2012.6020000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2014.7840000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+2015.9340000000	n/a	n/a	Trn No Response	n/a	n/a	S105
+2016.1160000000	n/a	n/a	STATUS	n/a	n/a	S  7
+2018.3000000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+2018.7960000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2018.9500000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2021.1320000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+2021.7640000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2021.9320000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2024.1140000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+2024.6360000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2024.7980000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2026.9800000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+2027.3480000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2027.5140000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2029.6960000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+2030.3320000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+2030.5120000000	n/a	n/a	STATUS	n/a	n/a	S  6
+2032.6960000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+2033.2200000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2033.3780000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2035.5600000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+2036.2920000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2036.4600000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2038.6440000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+2039.5160000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2039.6760000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2041.8580000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+2042.6680000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2042.8260000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2045.0080000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+2046.0360000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2046.1900000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2064.2180000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+2065.2240000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2066.4600000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+2067.9100000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2069.0860000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+2070.0060000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2071.1860000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+2072.1420000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2073.3180000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+2074.3100000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2075.4840000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+2076.6380000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2077.8160000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+2078.6620000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2079.8320000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+2080.5980000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2081.7660000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+2082.6140000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2083.7820000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+2084.5340000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2085.7160000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+2087.1260000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+2088.2980000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+2089.2300000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2090.3980000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+2091.2380000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2092.4140000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+2093.4300000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2094.6120000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+2095.6540000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2096.8280000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+2097.5260000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2098.6940000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+2099.4140000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2100.5920000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+2101.5260000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2102.6920000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+2103.5180000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+2104.6920000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+2105.4140000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2106.5900000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+2107.3820000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2108.5580000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+2109.6460000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2110.8240000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+2112.1900000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+2113.3720000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+2114.0300000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2115.2040000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+2116.1500000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2117.3200000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+2117.9900000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2119.1700000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+2119.9100000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2121.0860000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+2122.2140000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2123.3860000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+2124.0780000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2125.2520000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+2125.9580000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2127.1340000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+2128.1740000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2129.3500000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+2130.1020000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2131.2840000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+2132.0940000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2133.2660000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+2134.0700000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2135.2480000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+2135.8540000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2137.0320000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+2137.6620000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2138.8300000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+2139.5500000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2140.7300000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+2141.5500000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2142.7300000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+2143.5980000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2144.7800000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+2145.5660000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+2146.7440000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+2147.5820000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2148.7600000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+2149.3820000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+2150.5600000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+2151.2300000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+2152.4100000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+2153.2060000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2154.3760000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+2155.2060000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2156.3760000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+2157.2940000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2158.4740000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+2159.3980000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2160.5740000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+2161.3740000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2185.2980000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+2186.2940000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2186.4960000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2188.7120000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+2189.3740000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2189.5620000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2191.7620000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+2192.4060000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2192.5960000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2194.7940000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+2195.3440000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2195.5280000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2197.7260000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+2198.7040000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2198.8940000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2201.0920000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+2202.0560000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2202.2260000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2204.4080000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+2205.2160000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2205.3740000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2207.5580000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+2208.2960000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2208.4560000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2210.6400000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+2211.5040000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2211.6740000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2213.8560000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+2214.7360000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2214.9060000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2217.0880000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+2217.8000000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2217.9540000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2220.1380000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+2221.0640000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2221.2200000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2223.4040000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+2224.1520000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2224.3200000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2226.5180000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+2227.1440000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2227.3000000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2229.4840000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+2230.4640000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2230.6160000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2232.8000000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+2233.4480000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2233.6160000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2235.7980000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+2236.4080000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2236.5640000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2238.7480000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+2239.3280000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2239.4800000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2241.6640000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+2242.3520000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2242.5120000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2244.6960000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+2245.3520000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2245.5120000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2247.6940000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+2248.5440000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2248.7100000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2250.8940000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+2251.5360000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2251.6940000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2253.8760000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+2254.9540000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+2255.1420000000	n/a	n/a	STATUS	n/a	n/a	S  6
+2257.3240000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+2257.7920000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2257.9580000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2260.1400000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+2260.6960000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+2260.8900000000	n/a	n/a	STATUS	n/a	n/a	S  6
+2263.0740000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+2263.4880000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2263.6560000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2265.8380000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+2266.9120000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2267.0720000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2269.2540000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+2269.9360000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2270.1040000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2272.2860000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+2273.0880000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2273.2540000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2275.4360000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+2276.5120000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2276.6680000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2278.8520000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+2279.7040000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2279.8680000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2282.0500000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+2282.8240000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2282.9840000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2285.1660000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+2286.3160000000	n/a	n/a	Trn No Response	n/a	n/a	S105
+2286.5160000000	n/a	n/a	STATUS	n/a	n/a	S  7
+2288.7040000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+2289.2080000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2289.3640000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2291.5480000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+2292.3520000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2292.5140000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2294.6960000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+2295.4480000000	n/a	n/a	Trn Resp: right,incorrect	n/a	n/a	S104
+2295.6300000000	n/a	n/a	STATUS	n/a	n/a	S  6
+2297.8120000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+2298.4240000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2298.5780000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2300.7620000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+2301.4080000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2301.5780000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2303.7600000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+2304.9100000000	n/a	n/a	Trn No Response	n/a	n/a	S105
+2305.0940000000	n/a	n/a	STATUS	n/a	n/a	S  7
+2307.2760000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+2307.6640000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2307.8260000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2310.0080000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+2310.4720000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2310.6420000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2312.8260000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+2313.6880000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2313.8580000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2316.0400000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+2316.4820000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2316.6420000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2318.8240000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+2319.4740000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2319.6400000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2321.8220000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+2322.2980000000	n/a	n/a	Trn Resp: right,incorrect	n/a	n/a	S104
+2322.4900000000	n/a	n/a	STATUS	n/a	n/a	S  6
+2324.6880000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+2325.2740000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2325.4360000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2327.6200000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+2328.0740000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+2328.2520000000	n/a	n/a	STATUS	n/a	n/a	S  6
+2330.4360000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+2330.7220000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2330.8860000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2333.0680000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+2333.6740000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2333.8340000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2336.0160000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+2336.4500000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2336.6160000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2338.8000000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+2339.5060000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2339.6660000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2341.8480000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+2342.7060000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2342.8640000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2345.0480000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+2345.8820000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2346.0480000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2348.2300000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+2348.9140000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2349.0800000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2351.2620000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+2352.0340000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2352.1960000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2354.3780000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+2355.3860000000	n/a	n/a	Trn Resp: right,incorrect	n/a	n/a	S104
+2355.5780000000	n/a	n/a	STATUS	n/a	n/a	S  6
+2357.7600000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+2358.0980000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2358.2600000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2360.4420000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+2361.3540000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2361.5080000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2363.6920000000	n/a	n/a	Trn Stim: yellow incongru D	n/a	n/a	S124
+2364.2020000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2364.3580000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2366.5420000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+2366.8900000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+2367.0740000000	n/a	n/a	STATUS	n/a	n/a	S  6
+2369.2560000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+2369.5940000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2369.7560000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2371.9380000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+2372.6020000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2372.7560000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2374.9380000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+2375.5940000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+2375.7880000000	n/a	n/a	STATUS	n/a	n/a	S  6
+2377.9700000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+2378.6260000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2378.7860000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2380.9700000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+2381.9620000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+2382.1520000000	n/a	n/a	STATUS	n/a	n/a	S  6
+2384.3360000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+2384.7620000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2384.9180000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2387.1000000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+2387.7540000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2387.9180000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2390.1000000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+2390.8260000000	n/a	n/a	Trn Resp: right,incorrect	n/a	n/a	S104
+2391.0160000000	n/a	n/a	STATUS	n/a	n/a	S  6
+2393.2000000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+2393.5380000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2393.6980000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2395.8820000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+2396.8980000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2397.0640000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2399.2480000000	n/a	n/a	Trn Stim: blue congru B	n/a	n/a	S212
+2399.8260000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2399.9800000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2402.1620000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+2402.7220000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+2402.9120000000	n/a	n/a	STATUS	n/a	n/a	S  6
+2405.0960000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+2405.7140000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+2405.8940000000	n/a	n/a	STATUS	n/a	n/a	S  6
+2408.0780000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+2408.3940000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2408.5600000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2410.7440000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+2411.4820000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2411.6440000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2413.8260000000	n/a	n/a	Trn Stim: yellow incongru A	n/a	n/a	S121
+2414.5460000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2414.7100000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2416.8920000000	n/a	n/a	Trn Stim: blue congru C	n/a	n/a	S213
+2417.3460000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2417.5100000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2419.6920000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+2420.2900000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+2420.4740000000	n/a	n/a	STATUS	n/a	n/a	S  6
+2422.6740000000	n/a	n/a	Trn Stim: blue congru A	n/a	n/a	S211
+2422.9780000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2423.1400000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2425.3220000000	n/a	n/a	Trn Stim: yellow incongru C	n/a	n/a	S123
+2425.8340000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2425.9880000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2428.1720000000	n/a	n/a	Trn Stim: yellow congru B	n/a	n/a	S112
+2428.9860000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2429.1540000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2431.3360000000	n/a	n/a	Trn Stim: yellow congru C	n/a	n/a	S113
+2431.7620000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2431.9200000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2434.1040000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+2434.5620000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+2434.7700000000	n/a	n/a	STATUS	n/a	n/a	S  6
+2436.9520000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+2437.3780000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2437.5360000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2439.7180000000	n/a	n/a	Trn Stim: blue incongru A	n/a	n/a	S221
+2440.1700000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2440.3340000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2442.5160000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+2443.0200000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2443.1840000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2445.3660000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+2445.7560000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2445.9160000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2448.0980000000	n/a	n/a	Trn Stim: blue incongru C	n/a	n/a	S223
+2448.7080000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2448.8640000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2451.0480000000	n/a	n/a	Trn Stim: yellow incongru B	n/a	n/a	S122
+2451.6760000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2451.8300000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2454.0140000000	n/a	n/a	Trn Stim: yellow congru A	n/a	n/a	S111
+2455.0600000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2455.2120000000	n/a	n/a	FB: +1	n/a	n/a	S  8
+2457.3980000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+2457.9400000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2458.0960000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2460.2780000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+2460.7080000000	n/a	n/a	Trn Resp: left,incorrect	n/a	n/a	S103
+2460.8940000000	n/a	n/a	STATUS	n/a	n/a	S  6
+2463.0780000000	n/a	n/a	Trn Stim: blue incongru B	n/a	n/a	S222
+2463.5080000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2463.6600000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2465.8420000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+2466.3000000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2466.4600000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2468.6420000000	n/a	n/a	Trn Stim: yellow congru D	n/a	n/a	S114
+2469.4680000000	n/a	n/a	Trn Resp: left,correct	n/a	n/a	S101
+2469.6260000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2471.8080000000	n/a	n/a	Trn Stim: blue incongru D	n/a	n/a	S224
+2472.7720000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2472.9400000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2475.1240000000	n/a	n/a	Trn Stim: blue congru D	n/a	n/a	S214
+2475.8200000000	n/a	n/a	Trn Resp: right,correct	n/a	n/a	S102
+2475.9740000000	n/a	n/a	FB: 0	n/a	n/a	S  9
+2489.3080000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+2490.2880000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2491.4720000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+2494.6340000000	n/a	n/a	Test No Response	n/a	n/a	S  5
+2495.8200000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+2496.6360000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2497.8180000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+2498.8840000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2500.0520000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+2501.6920000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2502.8680000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+2503.6920000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2504.8660000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+2506.5880000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2507.7660000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+2508.6120000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2509.7820000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+2510.3880000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2511.5640000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+2512.1720000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2513.3460000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+2515.7240000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2516.8960000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+2517.6680000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2518.8460000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+2519.8280000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+2521.0120000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+2522.0280000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2523.2100000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+2524.0040000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2525.1780000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+2526.9560000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2528.1260000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+2528.8760000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2530.0600000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+2531.7000000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2532.8760000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+2534.4760000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2535.6580000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+2536.9480000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2538.1220000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+2538.9240000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2540.1060000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+2540.8840000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+2542.0540000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+2542.8760000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2544.0540000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+2544.8360000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2546.0040000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+2546.9080000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+2548.0860000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+2549.1400000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+2550.3180000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+2551.1880000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2552.3680000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+2553.3560000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2554.5340000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+2555.4040000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2556.5840000000	n/a	n/a	Test Stim: AB	n/a	n/a	S 12
+2557.3880000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2558.5660000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+2559.4280000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2560.5980000000	n/a	n/a	Test Stim: CD	n/a	n/a	S 34
+2561.5960000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+2562.7640000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+2564.2520000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2565.4300000000	n/a	n/a	Test Stim: DB	n/a	n/a	S 42
+2566.5640000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2567.7460000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+2568.2860000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2569.4620000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+2570.3240000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2571.4960000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+2572.2860000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2573.4620000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+2575.1100000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2576.2780000000	n/a	n/a	Test Stim: BD	n/a	n/a	S 24
+2578.0780000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2579.2600000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+2579.9740000000	n/a	n/a	Test Resp: right,incorrect	n/a	n/a	S  4
+2581.1420000000	n/a	n/a	Test Stim: BC	n/a	n/a	S 23
+2582.1820000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2583.3580000000	n/a	n/a	Test Stim: CA	n/a	n/a	S 31
+2583.9980000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2585.1740000000	n/a	n/a	Test Stim: DA	n/a	n/a	S 41
+2586.2140000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2587.3900000000	n/a	n/a	Test Stim: AC	n/a	n/a	S 13
+2589.0380000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2590.2060000000	n/a	n/a	Test Stim: DC	n/a	n/a	S 43
+2591.1740000000	n/a	n/a	Test Resp: left,incorrect	n/a	n/a	S  3
+2592.3560000000	n/a	n/a	Test Stim: AD	n/a	n/a	S 14
+2593.5260000000	n/a	n/a	Test Resp: left,correct	n/a	n/a	S  1
+2594.7040000000	n/a	n/a	Test Stim: CB	n/a	n/a	S 32
+2596.3900000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
+2597.5700000000	n/a	n/a	Test Stim: BA	n/a	n/a	S 21
+2598.2860000000	n/a	n/a	Test Resp: right,correct	n/a	n/a	S  2
